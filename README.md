@@ -1,0 +1,1 @@
+Um contato com a criação de **CRUD** usando o Spring Boot, pgAdmin como banco de dados, faltou algumas coisas como tratamento de erros, paginação, filtros, a camada de serviços, datas, etc. Apenas um contato aprofundando do assunto básico de CRUD.
